@@ -1,0 +1,23 @@
+questions:
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Its bascily the way we write the HTML so the its easy for all to understand what your coding.
+instead of just random divs and abbr.
+
+What are the 4 areas of the box model?
+
+Margin, Border, Padding ,Content.
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+Vertical axis.
+
+Explain why git is valuable to a team of developers.
+
+So that everyone can work on a project together without worry of messing someone else up.
+you can compare to others work and see who did what. You can also work on the code without having to take down the whole porject or holding anyone else up.
+
+Define mobile-first design in your own words.
+
+Most people use there phones more then computers. In my own words its working on the more profitable design first.
